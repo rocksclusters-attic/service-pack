@@ -2,25 +2,16 @@
 
 <kickstart>
 
+	<description>
+	Service Pack Roll. When good code goes bad.
+	</description>
 
-<description>
-Service Pack Roll. When good code goes bad.
-</description>
-
-
-<changelog>
-$Log: service-pack-base.xml,v $
-Revision 1.4  2009/08/12 23:02:46  bruno
-fixes for 5.2.2
-
-Revision 1.2  2006/10/09 20:59:23  bruno
-tweaks
-
-Revision 1.1  2006/10/06 23:33:45  bruno
-first draft
-
-</changelog>
-
+	<changelog>
+	$Log: service-pack-base.xml,v $
+	Revision 1.5  2010/08/12 18:26:06  mjk
+	*** empty log message ***
+	
+	</changelog>
 
 </kickstart> 
 

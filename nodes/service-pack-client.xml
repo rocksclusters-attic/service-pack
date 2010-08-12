@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+
+<kickstart>
+
+	<description>
+	Service Pack Roll. When good code goes bad.
+	</description>
+
+	<changelog>
+	$Log: service-pack-client.xml,v $
+	Revision 1.1  2010/08/12 18:26:06  mjk
+	*** empty log message ***
+	
+	</changelog>
+
+<post arg="--nochroot">
+cp /tmp/rocks-bt.log /mnt/sysimage/tmp
+</post>
+
+</kickstart> 
+
